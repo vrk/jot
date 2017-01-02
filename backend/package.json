@@ -1,0 +1,22 @@
+{
+  "name": "jot-backend",
+  "version": "1.0.0",
+  "description": "backend for jot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrk/jot.git"
+  },
+  "author": "Victoria Kirst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrk/jot/issues"
+  },
+  "homepage": "https://github.com/vrk/jot#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
